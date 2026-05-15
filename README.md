@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 <br/>
