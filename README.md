@@ -70,6 +70,10 @@
 <br><b>TensorFlow</b>
 </td>
 <td align="center" width="96">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48" height="48" />
+<br><b>HuggingFace</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
 <br><b>FastAPI</b>
 </td>
