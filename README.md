@@ -15,6 +15,15 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/asem-saber-8657a6278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/asemsaber" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
 <!-- About Me Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
@@ -88,6 +97,8 @@
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
 <br><b>Docker</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
 <br><b>Git</b>
@@ -103,6 +114,14 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
 <br><b>Selenium</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
+<br><b>OpenCV</b>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="48" height="48" />
+<br><b>PowerBI</b>
 </td>
 </tr>
 </table>
