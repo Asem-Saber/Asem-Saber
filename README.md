@@ -28,6 +28,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1EwDi0xocdYhsRLPGQ84QGUNA1m91eymA?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-8B5CF6?style=for-the-badge" alt="Download Resume"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -91,6 +99,10 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
 <br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
+<br><b>Selenium</b>
 </td>
 </tr>
 </table>
