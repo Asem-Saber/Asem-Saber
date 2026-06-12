@@ -63,6 +63,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge"/>
@@ -120,9 +121,9 @@
 <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
 <br><b>OpenCV</b>
 </td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="48" height="48" />
-<br><b>PowerBI</b>
+<td align="center" width="96" valign="bottom">
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" />
+<br><b>RAG Pipelines</b>
 </td>
 </tr>
 </table>
@@ -142,6 +143,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 </div>
