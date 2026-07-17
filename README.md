@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-  <a href="[https://drive.google.com/drive/folders/1EwDi0xocdYhsRLPGQ84QGUNA1m91eymA?usp=sharing](https://drive.google.com/file/d/1SJDYde7jNYpO-oATUoLmusX4oqn2b0yQ/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1SJDYde7jNYpO-oATUoLmusX4oqn2b0yQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-8B5CF6?style=for-the-badge" alt="Download Resume"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
