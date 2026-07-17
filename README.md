@@ -41,6 +41,10 @@
   <a href="https://drive.google.com/drive/folders/1EwDi0xocdYhsRLPGQ84QGUNA1m91eymA?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-8B5CF6?style=for-the-badge" alt="Download Resume"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-asemsaber.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-06B6D4?style=for-the-badge" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
