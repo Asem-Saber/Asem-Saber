@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-8B5CF6?style=for-the-badge" alt="Download Resume"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-asemsaber.vercel.app" target="_blank">
+  <a href="https://portfolio-eight-flax-73.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-06B6D4?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
