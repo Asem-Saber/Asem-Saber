@@ -102,6 +102,14 @@
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
 <br><b>Docker</b>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge" />
+<br><b>CrewAI</b>
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -128,14 +136,16 @@
 <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" />
 <br><b>RAG Pipelines</b>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" alt="CI/CD" width="48" height="48" />
+<br><b>CI/CD</b>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="48" height="48" />
+<br><b>Airflow</b>
+</td>
 </tr>
 </table>
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white"/>
-</p>
 
 <br/>
 
