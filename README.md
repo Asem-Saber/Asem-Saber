@@ -67,10 +67,21 @@
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/vLLM-7B3FE4?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultralytics-071D49?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white"/>
 </p>
 
 <br/>
@@ -106,10 +117,6 @@
 <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
 <br><b>Redis</b>
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge" />
-<br><b>CrewAI</b>
-</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -131,10 +138,6 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
 <br><b>OpenCV</b>
-</td>
-<td align="center" width="96" valign="bottom">
-<img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" />
-<br><b>RAG Pipelines</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" alt="CI/CD" width="48" height="48" />
